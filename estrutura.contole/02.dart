@@ -10,7 +10,7 @@ while(!continuar){
     print("digite 1 aprendi");
     print("digite 2 não aprendir");
     print("informe um valor:");
-    String? entradaString = stdin.readLineSync();
+    String?   = stdin.readLineSync();
     if(tipoSaida == 1)
     continuar = true;
   }
